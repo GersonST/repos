@@ -79,7 +79,7 @@ export default function Repositorio({ match }) {
   return (
     <Container>
 
-      <BackButton to="/">
+      <BackButton to="/repos/">
         <FaArrowLeft color="#000" size={35} />
       </BackButton>
 
