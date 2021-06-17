@@ -112,7 +112,7 @@ export default function Main(){
              </DeleteButton>  
              {repo.name}
              </span>
-             <Link to={`/repositorio/${encodeURIComponent(repo.name) }`}>
+             <Link to={`/repos/repositorio/${encodeURIComponent(repo.name) }`}>
                <FaBars size={20}/>
              </Link>
            </li>
