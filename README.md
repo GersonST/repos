@@ -1,10 +1,8 @@
 
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <img  height="400" src="src/images/Capa.png">
+</p>
+
 
   <h3 align="center">Repos</h3>
 
@@ -13,7 +11,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://gersonst.github.io/repos/" target:"_blank">View Demo</a>
   </p>
 </p>
 
